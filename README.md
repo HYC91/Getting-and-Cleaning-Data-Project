@@ -5,9 +5,6 @@ date: "July 10, 2016"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ## This repository contains files needed for the project. 
 
 ## Data:
