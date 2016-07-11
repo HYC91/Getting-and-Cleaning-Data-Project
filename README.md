@@ -1,10 +1,3 @@
----
-title: "ReadMe"
-author: "HYC91"
-date: "July 10, 2016"
-output: html_document
----
-
 This repository contains files for the Coursera Getting and Cleaning Data course project. 
 
 DATA:
