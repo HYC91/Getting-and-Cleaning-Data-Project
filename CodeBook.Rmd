@@ -1,14 +1,3 @@
----
-title: "CodeBook"
-author: "HYC91"
-date: "July 10, 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Getting and Cleaning Data Project
 
 This code book summarizes the resulting data fields in tidy.txt.
