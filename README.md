@@ -1,10 +1,3 @@
----
-title: "Project for Getting and Cleaning Data Course"
-author: "HYC91"
-date: "July 10, 2016"
-output: html_document
----
-
 ## This repository contains files needed for the project. 
 
 ## Data:
